@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f82effc2-8c86-40fa-aafa-0c0c89357fcf" name="Changes" comment="" />
+    <list default="true" id="f82effc2-8c86-40fa-aafa-0c0c89357fcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../chap02-mapping/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap02-mapping/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-mapping/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-mapping/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-mapping/src/test/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-mapping/src/test/resources/META-INF/persistence.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,10 +45,16 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2bmxrV7PNQz9SSMcemVWKX9Emws" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -48,7 +62,10 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/dev/13_jpa/chap01-persitence-context",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,7 +73,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.A_EntityLifecycleTests.병합_merge_삽입_테스트">
+  <component name="RunManager" selected="Gradle.A_EntityLifecycleTests.close_테스트">
     <configuration name="A_EntityLifecycleTests.준영속성_clear_테스트" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -179,7 +196,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.A_EntityLifecycleTests.병합_merge_삽입_테스트" />
         <item itemvalue="Gradle.A_EntityLifecycleTests.병합_merge_수정_테스트" />
         <item itemvalue="Gradle.A_EntityLifecycleTests.close_테스트" />
         <item itemvalue="Gradle.A_EntityLifecycleTests.준영속성_clear_테스트" />
@@ -196,6 +212,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706834257011</updated>
       <workItem from="1706834258007" duration="15391000" />
+      <workItem from="1707095153183" duration="3608000" />
     </task>
     <servers />
   </component>

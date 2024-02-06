@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b827bee-dbf4-4485-80f3-1007638f8e35" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../chap01-persitence-context/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-persitence-context/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../chap01-persitence-context/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap01-persitence-context/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/META-INF/persistence.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +227,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706853450374</updated>
       <workItem from="1706853451366" duration="857000" />
-      <workItem from="1707093482280" duration="13818000" />
+      <workItem from="1707093482280" duration="15293000" />
     </task>
     <servers />
   </component>
